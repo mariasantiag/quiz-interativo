@@ -1,4 +1,5 @@
-
+import Header from './components/Header'
+import Questions from './components/QuestionCard'
 import './App.module.css'
 
 function App() {
@@ -6,8 +7,9 @@ function App() {
 
   return (
     <>
-      <h1>Quiz Interativo</h1>
-    </>
+      <Header/>
+      <Questions/>
+    </> 
   )
 }
 
