@@ -1,16 +1,15 @@
-# React + Vite
+## 🎯 Objetivo do Projeto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Este projeto consiste em um quiz interativo desenvolvido com **React**, onde o usuário pode responder a um conjunto de questões, visualizar o tempo gasto em cada pergunta e avançar para a próxima. O intuito é aplicar conhecimentos essenciais de React, como:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- `useState` e `useEffect`
+- Passagem de props
+- CSS Modules para estilização modularizada
+- Componentes organizados por responsabilidade
+- Manipulação de tempo e estado
 
-## React Compiler
+---
+## Estrutura de Pastas
+<img width="327" height="592" alt="image" src="https://github.com/user-attachments/assets/6ec34713-7c37-4f62-b54c-3d94b271afa8" />
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
