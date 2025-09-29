@@ -1,6 +1,17 @@
 ## 🎯 Objetivo do Projeto
 
-Este projeto tem como objetivo desenvolver um sistema de quiz interativo, onde o usuário responde a uma série de perguntas e recebe uma pontuação com base nas suas respostas. A proposta é criar uma aplicação simples, intuitiva e funcional que possa ser usada tanto para fins educacionais quanto para entretenimento.
+
+Este projeto tem como finalidade o desenvolvimento de um **sistema de quiz interativo** utilizando **React**, no qual o usuário poderá responder a uma série de perguntas e receber uma pontuação com base em suas respostas.
+
+A proposta é entregar uma aplicação:
+
+- ✅ Simples e intuitiva.
+- 🧠 Capaz de estimular o aprendizado e a memorização.
+- 🎮 Útil tanto para fins educacionais quanto para entretenimento.
+- ⏱️ Com controle de tempo por pergunta, incentivando o raciocínio rápido.
+- 🔄 Com navegação dinâmica entre perguntas.
+
+O projeto também serve como base para estudos práticos sobre conceitos como **componentização, gerenciamento de estado, manipulação de eventos** e **renderização condicional no React**.
 
 
 ## Estrutura de Pastas
