@@ -1,19 +1,15 @@
 ## 🎯 Objetivo do Projeto
 
 
-Este projeto tem como finalidade o desenvolvimento de um **sistema de quiz interativo** utilizando **React**, no qual o usuário poderá responder a uma série de perguntas e receber uma pontuação com base em suas respostas.
+Este projeto consiste em um quiz interativo desenvolvido com **React**, onde o usuário pode responder a um conjunto de questões, visualizar o tempo gasto em cada pergunta e avançar para a próxima. O intuito é aplicar conhecimentos essenciais de React, como:
 
-A proposta é entregar uma aplicação:
+- `useState` e `useEffect`
+- Passagem de props
+- CSS Modules para estilização modularizada
+- Componentes organizados por responsabilidade
+- Manipulação de tempo e estado
 
-- ✅ Simples e intuitiva.
-- 🧠 Capaz de estimular o aprendizado e a memorização.
-- 🎮 Útil tanto para fins educacionais quanto para entretenimento.
-- ⏱️ Com controle de tempo por pergunta, incentivando o raciocínio rápido.
-- 🔄 Com navegação dinâmica entre perguntas.
-
-O projeto também serve como base para estudos práticos sobre conceitos como **componentização, gerenciamento de estado, manipulação de eventos** e **renderização condicional no React**.
-
-
+---
 ## Estrutura de Pastas
 <img width="327" height="592" alt="image" src="https://github.com/user-attachments/assets/6ec34713-7c37-4f62-b54c-3d94b271afa8" />
 
